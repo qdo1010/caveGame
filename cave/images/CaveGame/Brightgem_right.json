@@ -1,0 +1,1815 @@
+{
+	"frames": {
+		"Bright Gem_00000.png": {
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00001.png": {
+			"frame": {
+				"x": 428,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00002.png": {
+			"frame": {
+				"x": 856,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00003.png": {
+			"frame": {
+				"x": 1284,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00004.png": {
+			"frame": {
+				"x": 1712,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00005.png": {
+			"frame": {
+				"x": 2140,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00006.png": {
+			"frame": {
+				"x": 2568,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00007.png": {
+			"frame": {
+				"x": 2996,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00008.png": {
+			"frame": {
+				"x": 3424,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00009.png": {
+			"frame": {
+				"x": 0,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00010.png": {
+			"frame": {
+				"x": 428,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00011.png": {
+			"frame": {
+				"x": 856,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00012.png": {
+			"frame": {
+				"x": 1284,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00013.png": {
+			"frame": {
+				"x": 1712,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00014.png": {
+			"frame": {
+				"x": 2140,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00015.png": {
+			"frame": {
+				"x": 2568,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00016.png": {
+			"frame": {
+				"x": 2996,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00017.png": {
+			"frame": {
+				"x": 3424,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00018.png": {
+			"frame": {
+				"x": 0,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00019.png": {
+			"frame": {
+				"x": 428,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00020.png": {
+			"frame": {
+				"x": 856,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00021.png": {
+			"frame": {
+				"x": 1284,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00022.png": {
+			"frame": {
+				"x": 1712,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00023.png": {
+			"frame": {
+				"x": 2140,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00024.png": {
+			"frame": {
+				"x": 2568,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00025.png": {
+			"frame": {
+				"x": 2996,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00026.png": {
+			"frame": {
+				"x": 3424,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00027.png": {
+			"frame": {
+				"x": 0,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00028.png": {
+			"frame": {
+				"x": 428,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00029.png": {
+			"frame": {
+				"x": 856,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00030.png": {
+			"frame": {
+				"x": 1284,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00031.png": {
+			"frame": {
+				"x": 1712,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00032.png": {
+			"frame": {
+				"x": 2140,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00033.png": {
+			"frame": {
+				"x": 2568,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00034.png": {
+			"frame": {
+				"x": 2996,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00035.png": {
+			"frame": {
+				"x": 3424,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00036.png": {
+			"frame": {
+				"x": 0,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00037.png": {
+			"frame": {
+				"x": 428,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00038.png": {
+			"frame": {
+				"x": 856,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00039.png": {
+			"frame": {
+				"x": 1284,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00040.png": {
+			"frame": {
+				"x": 1712,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00041.png": {
+			"frame": {
+				"x": 2140,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00042.png": {
+			"frame": {
+				"x": 2568,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00043.png": {
+			"frame": {
+				"x": 2996,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00044.png": {
+			"frame": {
+				"x": 3424,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00045.png": {
+			"frame": {
+				"x": 0,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00046.png": {
+			"frame": {
+				"x": 428,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00047.png": {
+			"frame": {
+				"x": 856,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00048.png": {
+			"frame": {
+				"x": 1284,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00049.png": {
+			"frame": {
+				"x": 1712,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00050.png": {
+			"frame": {
+				"x": 2140,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00051.png": {
+			"frame": {
+				"x": 2568,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00052.png": {
+			"frame": {
+				"x": 2996,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00053.png": {
+			"frame": {
+				"x": 3424,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00054.png": {
+			"frame": {
+				"x": 0,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00055.png": {
+			"frame": {
+				"x": 428,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00056.png": {
+			"frame": {
+				"x": 856,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00057.png": {
+			"frame": {
+				"x": 1284,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00058.png": {
+			"frame": {
+				"x": 1712,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00059.png": {
+			"frame": {
+				"x": 2140,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00060.png": {
+			"frame": {
+				"x": 2568,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00061.png": {
+			"frame": {
+				"x": 2996,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00062.png": {
+			"frame": {
+				"x": 3424,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00063.png": {
+			"frame": {
+				"x": 0,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00064.png": {
+			"frame": {
+				"x": 428,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00065.png": {
+			"frame": {
+				"x": 856,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00066.png": {
+			"frame": {
+				"x": 1284,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00067.png": {
+			"frame": {
+				"x": 1712,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00068.png": {
+			"frame": {
+				"x": 2140,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00069.png": {
+			"frame": {
+				"x": 2568,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00070.png": {
+			"frame": {
+				"x": 2996,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00071.png": {
+			"frame": {
+				"x": 3424,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00072.png": {
+			"frame": {
+				"x": 3852,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00073.png": {
+			"frame": {
+				"x": 3852,
+				"y": 464,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00074.png": {
+			"frame": {
+				"x": 3852,
+				"y": 928,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00075.png": {
+			"frame": {
+				"x": 3852,
+				"y": 1392,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00076.png": {
+			"frame": {
+				"x": 3852,
+				"y": 1856,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00077.png": {
+			"frame": {
+				"x": 3852,
+				"y": 2320,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00078.png": {
+			"frame": {
+				"x": 3852,
+				"y": 2784,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00079.png": {
+			"frame": {
+				"x": 3852,
+				"y": 3248,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00080.png": {
+			"frame": {
+				"x": 0,
+				"y": 3712,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00081.png": {
+			"frame": {
+				"x": 428,
+				"y": 3712,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00082.png": {
+			"frame": {
+				"x": 856,
+				"y": 3712,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00083.png": {
+			"frame": {
+				"x": 1284,
+				"y": 3712,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00084.png": {
+			"frame": {
+				"x": 1712,
+				"y": 3712,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"Bright Gem_00085.png": {
+			"frame": {
+				"x": 2140,
+				"y": 3712,
+				"w": 428,
+				"h": 464
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 428,
+				"h": 464
+			},
+			"sourceSize": {
+				"w": 428,
+				"h": 464
+			}
+		},
+		"RunRight01.png": {
+			"frame": {
+				"x": 4280,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		},
+		"RunRight02.png": {
+			"frame": {
+				"x": 4408,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		},
+		"RunRight03.png": {
+			"frame": {
+				"x": 4280,
+				"y": 128,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		},
+		"RunRight04.png": {
+			"frame": {
+				"x": 4408,
+				"y": 128,
+				"w": 128,
+				"h": 128
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 128,
+				"h": 128
+			},
+			"sourceSize": {
+				"w": 128,
+				"h": 128
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 4536,
+			"h": 4176
+		},
+		"scale": "1"
+	}
+}
